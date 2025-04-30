@@ -15,7 +15,7 @@
 - 💬 Ask me about **Devops**
 - 🌍  I'm based in Bangalore, India
 
-- 📫 How to reach me **aadarsh.work@gmail.com**
+- 📫 How to reach me **aadarsh.work153@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
