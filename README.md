@@ -1,7 +1,7 @@
 [![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aadarsh Puttamaneni</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
- I work with AWSDevOps. I build and manage cloud infrastructure to make software delivery faster and more reliable. I use DevOps tools to help projects run smoothly, scale well, and stay secure. I create CI/CD pipelines, automate deployments, and manage containers with Docker and Kubernetes. I aim to reduce downtime and improve development speed. I use Terraform to set up cloud resources like VMs, EC2, S3, and Load Balancers. I also monitor performance with tools like ELK and Prometheus, keeping applications running efficiently. I write scripts using Shell, Bash, and python to automate tasks, troubleshoot issues, and maintain 24/7 service availability. I follow best practices to keep cloud environments safe and efficient.  🌟 Let’s work together to bring success to your cloud projects!
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
