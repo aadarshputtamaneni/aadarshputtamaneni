@@ -2,9 +2,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+👋;+I'm+Aadarsh+Puttamaneni!;" />
 </h1>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+A+passionate+DevOps+Engineer+from+India;" />
-</h1>
+<h1 align="center">A passionate DevOps Engineer from India</h1>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
