@@ -1,14 +1,10 @@
 [![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)](https://rishavchanda.io)
-<img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 <h1 align="center">Hi, I'm Aadarsh Puttamaneni</h1>
-<img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
 
 <h1 align="center">A passionate DevOps Engineer from India</h1>
-<img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
 
 
 
