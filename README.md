@@ -14,9 +14,7 @@
 - 📫 How to reach me **aadarsh.work153@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-
-<h3 align="left">Connect with me:</h3>
+ <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 <p align="left">
 <a href="https://twitter.com/aadarshp153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarshp153" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aadarshputtamaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarshputtamaneni" height="30" width="40" /></a>
@@ -29,4 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact" alt="aadarshputtamaneni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&locale=en" alt="aadarshputtamaneni" />
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+ 
