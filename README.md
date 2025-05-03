@@ -1,6 +1,7 @@
 [![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Aadarsh Puttamaneni</h1>
 <h1 align="center">A passionate DevOps Engineer from India</h1>
+<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animation/programming-computer-wr6yLa2L3D">
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
