@@ -3,12 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+👋;+I'm+Aadarsh+Puttamaneni!;" />
 </h1>
 <h1 align="Center">DevOps Engineer</h1>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshputtamaneni"/> </p>
 <h3 align="left">About Me:</h3>
 DevOps professional with 5 years of experience focused on AWS cloud infrastructure. I specialize in building and managing scalable, secure, and high-performance environments that accelerate software delivery and enhance system reliability. I create and maintain CI/CD pipelines to automate the development lifecycle, ensuring faster and more consistent deployments. Using Terraform, I provision and manage AWS resources like EC2, S3, and Load Balancers, enabling efficient infrastructure-as-code practices. I work extensively with Docker and Kubernetes (EKS) to manage containers and orchestrate services for scalability and resilience. For performance monitoring and operational visibility, I rely on tools like AWS CloudWatch and Prometheus. I also develop automation scripts in Shell, Bash, and Python to streamline tasks, troubleshoot issues, and support 24/7 service availability. I follow DevOps best practices to maintain a secure, cost-effective, and efficient cloud environment that supports continuous innovation and uptime.
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **Advanced Concepts in DevOps**
 - 💬 Ask me about **Devops**
 - 🌍  I'm based in **Bangalore, India**
