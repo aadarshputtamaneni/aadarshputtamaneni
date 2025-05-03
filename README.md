@@ -1,5 +1,5 @@
 [![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Aadarsh Puttamaneni</h1>
+<h1 align="center">Hi, I'm Aadarsh Puttamaneni</h1>
 <h1 align="center">A passionate DevOps Engineer from India</h1>
 
 
