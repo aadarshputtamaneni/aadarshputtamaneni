@@ -14,6 +14,7 @@
 - 📫 How to reach me **aadarsh.work153@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
