@@ -1,5 +1,5 @@
 [![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://rishavchanda.io)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <h1 align="center">Hi, I'm Aadarsh Puttamaneni</h1>
 
 <p align="left">
