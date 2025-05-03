@@ -3,8 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+👋;+I'm+Aadarsh+Puttamaneni!;" />
 </h1>
 <h1 align="Center">DevOps Engineer</h1>
+
+<img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshputtamaneni"/> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">About Me:</h3>
 
 - 🌱 I’m currently learning **Advanced Concepts in DevOps**
