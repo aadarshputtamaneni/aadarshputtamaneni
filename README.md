@@ -1,4 +1,4 @@
-[![MasterHead](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Your%20paragraph%20text%20(1).png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-05-02T15%3A57%3A12.087Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F68266e1334314431%2FYour%2520paragraph%2520text%2520(1).png%3FExpires%3D1840895832%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DV8n8G1MZEvHyuXfoJl9qiqDQni1q4UphuRZwf7FvT35N14H6Swq5zY7J~wur-r~RuxJ~w5H8DlciJCEgFxLCYSce-H4dZe0Raxm-d8FbXfmB1JkX21L8mTW7Ll~OmzSrkw33~mw7FqA3EYYRXLlqA8NIQd832hZQ58cTwps2qQlUTHfaaOXxsQ1IXGAH61Zuf~v4Ukq62rGlwwAoU4-iroe~lJkeQL9609v2agQCAME2OFVhGamVT7ZXW0QT1Y1sj1WPa-cDkxuaUaEFrFrTmufROWcffz~IjGpPI92FtxF2HA2PWIbDqfTPBnqDmX5U-8gDQDXRx3688jOWtjYiTg__%22%7D)](https://rishavchanda.io)
+[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Aadarsh Puttamaneni</h1>
 <h1 align="center">A passionate DevOps Engineer from India</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
