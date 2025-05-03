@@ -1,6 +1,6 @@
 [![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://rishavchanda.io)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+👋;+I'm+Aadarsh+Puttamaneni!;+a+DevOps+Engineer+From+India;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+👋;+I'm+Aadarsh+Puttamaneni!;+a+DevOps+Engineer+From+India+;" />
 </h1>
 
 
