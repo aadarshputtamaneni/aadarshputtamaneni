@@ -1,4 +1,4 @@
-[MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)}](https://rishavchanda.io)
 
 <h1 align="center">Hi, I'm Aadarsh Puttamaneni</h1>
 
