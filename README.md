@@ -3,31 +3,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+👋;+I'm+Aadarsh+Puttamaneni!;" />
 </h1>
 <h1 align="Center">DevOps Engineer</h1>
-
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshputtamaneni"/> </p>
-
-
-
-
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-
-
 <h3 align="left">About Me:</h3>
+
 - 🌱 I’m currently learning **Advanced Concepts in DevOps**
 - 💬 Ask me about **Devops**
 - 🌍  I'm based in **Bangalore, India**
 - 📫 How to reach me **aadarsh.work153@gmail.com**
 - ⚡ Fun fact **I am funny**
 - ⭐ Let's work together to bring success to your **cloud projects!**
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aadarshp153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarshp153" height="30" width="40" /></a>
