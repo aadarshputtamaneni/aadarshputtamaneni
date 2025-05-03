@@ -11,14 +11,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshputtamaneni"/> </p>
 
 - 🌱 I’m currently learning **Advanced Concepts in DevOps**
-
 - 💬 Ask me about **Devops**
-- 🌍  I'm based in Bangalore, India
-
+- 🌍  I'm based in **Bangalore, India**
 - 📫 How to reach me **aadarsh.work153@gmail.com**
-
 - ⚡ Fun fact **I am funny**
-- ⭐ Let's work together to bring success to your cloud projects!
+- ⭐ Let's work together to bring success to your **cloud projects!**
 
 
 
