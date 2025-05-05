@@ -3,19 +3,12 @@
 
 ## [![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)    
 
-## [![About Me](https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="aadarshputtamaneni" width="150" height="30"/> </p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="aadarshputtamaneni" width="150" height="30"/>
-</p>
-
+## [![About Me](https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  
 
 Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
 
 
 ## ![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="aadarshputtamaneni" width="150" height="30"/> </p>
 
