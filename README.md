@@ -18,10 +18,10 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 - ⭐ Let's work together to bring success to your **cloud projects!**
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-8A2BE2?style=for-the-badge&logo=Handshake&logoColor=white)
 
-<p align="center">
-<a href="https://twitter.com/aadarshp153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarshp153" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aadarshputtamaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarshputtamaneni" height="30" width="40" /></a>
-<a href="https://instagram.com/aadarsh_puttamaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadarsh_puttamaneni" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/aadarshp153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarshp153" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/aadarshputtamaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarshputtamaneni" height="40" width="50" /></a>
+<a href="https://instagram.com/aadarsh_puttamaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadarsh_puttamaneni" height="40" width="50" /></a>
 </p>
 
 ## [![⚡ Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-FF6347?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)  
