@@ -3,7 +3,7 @@
 
 ## [![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)    
 
-<p>[![About Me](https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)   align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="aadarshputtamaneni" width="150" height="30"/> </p>
+## [![About Me](https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)   a
 
 Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
 
@@ -14,15 +14,12 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
-<p>
-  <span style="float: left;">
-    <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white" alt="About Me"/>
-  </span>
-  <span style="float: right;">
-    <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="Profile views" width="150" height="30"/>
-  </span>
+<p style="text-align: left;">
+  <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white" alt="About Me"/>
 </p>
-
+<p style="text-align: right;">
+  <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="Profile views" width="150" height="30"/>
+</p>
 
 - 🌱 I’m currently learning **Advanced Concepts in DevOps**
 - 💬 Ask me about **Devops**
