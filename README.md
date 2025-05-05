@@ -33,9 +33,14 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 
 ## [![📊 My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  
 
-|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aadarshputtamaneni" /></p>|
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aadarshputtamaneni" /></p> |
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&locale=en&theme=tokyonight" alt="aadarshputtamaneni" />
 
 
+
+| <a href="https://github.com/NotHarshhaa/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotHarshhaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harshhaa's github stats" /></a> | <a href="https://github.com/NotHarshhaa/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+---
 
