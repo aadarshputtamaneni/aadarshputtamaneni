@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 
 
-## [![DevOps Engineer](https://img.shields.io/badge/DevOps_Engineer-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)    
+
 
 <p>
   <span style="float: left;">
