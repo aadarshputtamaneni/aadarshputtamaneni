@@ -1,4 +1,4 @@
-[![MasterHead]([![MasterHead](https://www.linkedin.com/in/aadarshputtamaneni/overlay/background-image/)](https://rishavchanda.io))](https://rishavchanda.io)
+[![MasterHead]([![MasterHead](https://www.linkedin.com/in/aadarshputtamaneni/overlay/background-image/)](https://rishavchanda.io))]
 <p>
   <span style="float: left;">
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white" alt="About Me"/>
