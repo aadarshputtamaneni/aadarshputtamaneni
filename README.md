@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEeIBnG1ToZHg/profile-displaybackgroundimage-shrink_350_1400/B56ZZZ_4FDGUAc-/0/1745266641043?e=1752105600&v=beta&t=HaPcI44X-wdQDiyJlcueBh60p6NiRYxmRnQlXvAY8Ew)](https://rishavchanda.io)
 <p>
   <span style="float: left;">
-    <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white" alt="About Me"/>
+    <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logoColor=white" alt="About Me"/>
   </span>
   <span style="float: right;">
     <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="Profile views" width="150" height="28"/>
