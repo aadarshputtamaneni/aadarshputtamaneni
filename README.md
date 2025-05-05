@@ -22,7 +22,7 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 
 
 - 🌱 I’m currently learning **Advanced Concepts in DevOps**
-- 💬 Ask me about **Devops**<img align="right" alt="Coding" width="200" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?ga=GA1.1.2037564457.1746436305&semt=ais_hybrid&w=740"> 
+- 💬 Ask me about **Devops**<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?ga=GA1.1.2037564457.1746436305&semt=ais_hybrid&w=740"> 
 - 🌍  I'm based in **Bangalore, India**
 - 📫 How to reach me **aadarsh.work153@gmail.com**
 - ⚡ Fun fact **I am funny**
