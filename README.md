@@ -32,10 +32,8 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 | ![Python](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | ![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white) | ![SonarQube](https://img.shields.io/badge/SonarQube-%23000000.svg?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) |  |
 
 ## [![📊 My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  
-
-| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aadarshputtamaneni" /></p> |
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&locale=en&theme=tokyonight" alt="aadarshputtamaneni" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aadarshputtamaneni" /></p> 
 
 
 
