@@ -16,7 +16,7 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 
 <p style="text-align: left;">
   <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white" alt="About Me"/>
-   style="text-align: right;">
+   style="text-align: right;"
   <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="Profile views" width="150" height="30"/>
 </p>
 
