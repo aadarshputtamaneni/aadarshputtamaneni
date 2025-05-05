@@ -13,7 +13,7 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="aadarshputtamaneni"/> </p>
 
 
-## ![About Me](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logo=Handshake&logoColor=white&labelColor=black)
+## ![About Me](https://img.shields.io/badge/About Me-black?style=for-the-badge&logo=Handshake&logoColor=white&labelColor=black)
 
 - 🌱 I’m currently learning **Advanced Concepts in DevOps**
 - 💬 Ask me about **Devops**
