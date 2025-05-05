@@ -28,7 +28,7 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,ansible,linux,docker,kubernetes,helm,jenkins,vscode,terraform,git,github,python,java,bash,sql"/>
+    <img src="https://skillicons.dev/icons?i=aws,ansible,linux,docker,kubernetes,jenkins,vscode,terraform,git,github,python,java,bash,sql"/>
   </a>
 </p>
 
