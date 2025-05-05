@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white" alt="About Me"/>
   </span>
   <span style="float: right;">
-    <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="Profile views" width="150" height="25"/>
+    <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="Profile views" width="150" height="27"/>
   </span>
 </p>
 
