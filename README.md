@@ -12,12 +12,8 @@
 Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
 
 ## ![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-
-- 🌱 I’m currently learning **Advanced Concepts in DevOps**
-- 💬 Ask me about **Devops**
 - 🌍  I'm based in **Bangalore, India**
 - 📫 How to reach me **aadarsh.work153@gmail.com**
-- ⚡ Fun fact **I am funny**
 - ⭐ Let's work together to bring success to your **cloud projects!**
 
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logoColor=white&labelColor=black)
