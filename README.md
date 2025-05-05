@@ -11,7 +11,9 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="aadarshputtamaneni"/> </p>
-<h3 align="left">About Me:</h3>
+
+
+## ![About Me](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logo=Handshake&logoColor=white&labelColor=black)
 
 - 🌱 I’m currently learning **Advanced Concepts in DevOps**
 - 💬 Ask me about **Devops**
