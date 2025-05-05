@@ -12,7 +12,7 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="aadarshputtamaneni"/> </p>
 
-## [![📊 About Me](https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
+## [![About Me](https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
 
 
 - 🌱 I’m currently learning **Advanced Concepts in DevOps**
@@ -33,7 +33,7 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 </p>
 
 
-## [![⚡ Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-000000?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)
+## [![Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-000000?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)
 
 
 <p align="left">
@@ -43,7 +43,7 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 </p>
 
  
-## [![📊 My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
+## [![ My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&locale=en&theme=radical" alt="aadarshputtamaneni" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=radical" alt="aadarshputtamaneni" /></p>
