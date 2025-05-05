@@ -7,6 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="Profile views" width="150" height="28"/>
   </span>
 </p>
+[![About Me](https://img.shields.io/badge/About_Me-000000?style=for-the-badge)](#about-me)
 
 Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
 
