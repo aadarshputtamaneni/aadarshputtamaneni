@@ -7,9 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshputtamaneni"/> </p>
 <h3 align="left">About Me:</h3>
 
-
-
-
 - 🌱 I’m currently learning **Advanced Concepts in DevOps**
 - 💬 Ask me about **Devops**
 - 🌍  I'm based in **Bangalore, India**
