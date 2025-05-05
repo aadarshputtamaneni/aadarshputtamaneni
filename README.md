@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROVHWQbZvY-o7gqeypEDfgBRxCk0lWmU-raw&s)](https://rishavchanda.io)]
+
 <p>
   <span style="float: left;">
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white" alt="About Me"/>
