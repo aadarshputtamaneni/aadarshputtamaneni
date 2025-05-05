@@ -36,5 +36,6 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 | <a href="center" src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&locale=en&theme=tokyonight" alt="aadarshputtamaneni" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aadarshputtamaneni" /></a> |
 | ------------- | ------------- |
 
----
+| <a href="https://github.com/NotHarshhaa/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/apiusername=NotHarshhaa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harshhaa's github stats" /></a> | <a href="https://github.com/NotHarshhaa/DevOps-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
