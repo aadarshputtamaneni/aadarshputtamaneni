@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 
 
-## [![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)    <p align="right"> <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="aadarshputtamaneni"/> </p>
+## [![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)    
 
 ## [![About Me](https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
 ## ![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-000000?style=for-the-badge&logo=fastapi&logoColor=white)
