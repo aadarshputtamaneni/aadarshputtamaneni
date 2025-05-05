@@ -27,9 +27,6 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 - 📫 How to reach me **aadarsh.work153@gmail.com**
 - ⚡ Fun fact **I am funny**
 - ⭐ Let's work together to bring success to your **cloud projects!**
--  ⭐ Let's work together to bring success to your **cloud projects!**
--   ⭐ Let's work together to bring success to your **cloud projects!**
-
 
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logo=Handshake&logoColor=white&labelColor=black)
 
