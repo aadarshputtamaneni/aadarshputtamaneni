@@ -1,7 +1,4 @@
 [![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)](https://rishavchanda.io)
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+👋;+I'm+Aadarsh+Puttamaneni!;" />
-</h1>
 
 ## [![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
 
