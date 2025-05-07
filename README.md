@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logoColor=white" alt="About Me"/>
   </span>
   <span style="float: aligin="left";">
-    <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" align="right"alt="Profile views" width="100" height="28"/>
+    <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" align="right"alt="Profile views" width="120" height="28"/>
   </span>
 </p>
 
