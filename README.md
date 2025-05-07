@@ -3,7 +3,7 @@
   <span style="float: left;">
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logoColor=white" alt="About Me"/>
   </span>
-  <span style="float: center;">
+  <span style="float: aligin="right";">
     <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" alt="Profile views" width="150" height="28"/>
   </span>
 </p>
