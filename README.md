@@ -30,7 +30,6 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
     <img src="https://skillicons.dev/icons?i=aws,ansible,linux,docker,kubernetes,jenkins,vscode,terraform,git,github,python,java,bash,sql"/>
   </a>
 </p>
-
 AWS
  
 ## [![My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logoColor=white)](https://github.com/NotHarshhaa)
