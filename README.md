@@ -39,5 +39,15 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 
 
 
+<div align="center">
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&locale=en&theme=radical" alt="aadarshputtamaneni GitHub Stats" />
+  <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=radical" alt="aadarshputtamaneni Streak Stats" />
+</div>
+
+<br/><br/><br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
  
