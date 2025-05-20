@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGn9uNf6ZM/P2hHiMdQl1TQJcD-1sqmdg/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)](https://rishavchanda.io)
+[![MasterHead](https://github.com/aadarshputtamaneni/Ansible/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png)](https://rishavchanda.io)
 <p>
   <span style="float: left;">
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logoColor=white" alt="About Me"/>
