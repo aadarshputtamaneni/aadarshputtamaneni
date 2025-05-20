@@ -34,7 +34,7 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
  
 ## [![My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logoColor=white)](https://github.com/NotHarshhaa)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=radical" alt="aadarshputtamaneni" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=radical" alt="aadarshputtamaneni" />
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&locale=en&theme=radical" alt="aadarshputtamaneni" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=radical" alt="aadarshputtamaneni" />
 
