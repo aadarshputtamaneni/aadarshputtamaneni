@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/aadarshputtamaneni/overlay/background-image)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHVbmvz_BnEdQ/profile-displaybackgroundimage-shrink_350_1400/B4DZbsllG4HsAY-/0/1747725997448?e=1753315200&v=beta&t=ivpxb5JGAWiU0dlHhAb0eK3sGFMhnnXpQ-wi81BWojg)](https://rishavchanda.io)
 <p>
   <span style="float: left;">
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logoColor=white" alt="About Me"/>
