@@ -17,7 +17,7 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 - ⚡  Open to Learning New Tools & Technologies: I enjoy exploring emerging tools and platforms in DevOps, cloud computing, and automation to stay ahead in the industry.
 - 🌟 Let’s work together to bring success to your **cloud projects!**
 - 🌍  I'm based in **Bangalore, India**
-- 📫 How to reach me **aadarsh.work19@gmail.com**
+- 📫 How to reach me **aadarshdevops@gmail.com**
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logoColor=white&labelColor=black)
 <p align="left">
 <a href="https://twitter.com/aadarshp153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarshp153" height="40" width="50" /></a>
