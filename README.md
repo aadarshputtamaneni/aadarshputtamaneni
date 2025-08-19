@@ -13,7 +13,7 @@ Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on
 
 ## ![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-000000?style=for-the-badge&logoColor=white)
 -  As a DevOps Engineer, I specialize in building and managing cloud infrastructure to accelerate software delivery while ensuring reliability and scalability. My expertise lies in automating processes, optimizing workflows, and maintaining high availability through a combination of industry-standard tools and best practices.
-- Skills - **AWS**, **Linux**, **Git&GitHub**, **Bash**, **Ansible**, **Jenkins**, **Terraform**, **Docker**, **Kubernetes**, **Python**, **SQL**.
+- Skills - **AWS**, **Azure**, **Linux**, **Git&GitHub**, **Bash**, **Ansible**, **Jenkins**, **Terraform**, **Docker**, **Kubernetes**, **Python**, **SQL**.
 - ⚡  Open to Learning New Tools & Technologies: I enjoy exploring emerging tools and platforms in DevOps, cloud computing, and automation to stay ahead in the industry.
 - 🌟 Let’s work together to bring success to your **cloud projects!**
 - 🌍  I'm based in **Bangalore, India**
