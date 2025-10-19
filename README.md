@@ -9,7 +9,7 @@
 </p>
 
 
-Hey there! 👋 I'm **Aadarsh Puttamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
+Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
 
 ## ![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-000000?style=for-the-badge&logoColor=white)
 -  As a DevOps Engineer, I specialize in building and managing cloud infrastructure to accelerate software delivery while ensuring reliability and scalability. My expertise lies in automating processes, optimizing workflows, and maintaining high availability through a combination of industry-standard tools and best practices.
