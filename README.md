@@ -36,4 +36,4 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=radical" alt="aadarshputtamaneni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=radical" alt="aadarshputtamaneni" /></p>
+<p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=radical" alt="aadarshputtamaneni" /></p>
