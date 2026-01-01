@@ -1,5 +1,5 @@
  
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQExn8C-LqNLeg/profile-displaybackgroundimage-shrink_350_1400/B56Zm_wJMpHQAY-/0/1759858695526?e=1768435200&v=beta&t=pWCXJhVqksI-hmxzkMTOj1HXjdyDb9CJ_OVqlP-8NpQ)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHZmlBaqzkWRA/profile-displaybackgroundimage-shrink_350_1400/B56Zt4i0HrJsAY-/0/1767253959086?e=1769040000&v=beta&t=sR0iJE3ZFgUQM2E8R0ujDH444jbdeW3QaQZD9bXPaA4)](https://rishavchanda.io)
 <p>
   <span style="float: left;">
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logoColor=white" alt="About Me"/>
