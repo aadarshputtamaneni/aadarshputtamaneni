@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logoColor=white" alt="About Me"/>
  
 </p> 
+
 Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.
 
 ---
