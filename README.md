@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHZmlBaqzkWRA/profile-displaybackgroundimage-shrink_350_1400/B56Zt4i0HrJsAY-/0/1767253959086?e=1769040000&v=beta&t=sR0iJE3ZFgUQM2E8R0ujDH444jbdeW3QaQZD9bXPaA4" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm Aadarsa Putamaneni
