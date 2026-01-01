@@ -1,6 +1,4 @@
  
-
- 
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHZmlBaqzkWRA/profile-displaybackgroundimage-shrink_350_1400/B56Zt4i0HrJsAY-/0/1767253959086?e=1769040000&v=beta&t=sR0iJE3ZFgUQM2E8R0ujDH444jbdeW3QaQZD9bXPaA4)](https://rishavchanda.io)
 <p>
   <span style="float: left;">
@@ -19,11 +17,10 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 - 📫 How to reach me: **aadarshdevops@gmail.com**
 
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logoColor=white&labelColor=black)
- <p align="left">
-<a href="https://twitter.com/aadarshp153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarshp153" height="40" width="50" /></a>
-<a href="https://www.linkedin.com/in/aadarsaputamneni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarshputtamaneni" height="40" width="50" /></a>
-<a href="https://instagram.com/aadarsh_puttamaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadarsh_puttamaneni" height="40" width="50" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/aadarsaputamneni/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/aadarshputtamaneni)
+[![Gmail](https://img.shields.io/badge/Email-aadarshdevops@gmail.com-red?logo=gmail&style=flat)](mailto:aadarshdevops@gmail.com)
 
 ## [![Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-000000?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)
 <p align="left">
