@@ -44,24 +44,8 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
  
  ## [![My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logoColor=white)](https://github.com/NotHarshhaa) 
  
+ ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadarshputtamaneni&theme=tokyonight)
 
-  ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api
-    ?username=aadarshputtamaneni
-    &show_icons=true
-    &include_all_commits=true
-    &count_private=true
-    &hide=issues,prs
-    &cache_seconds=1800
-    &theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com
-    ?user=aadarshputtamaneni
-    &theme=tokyonight" />
-</p>
+ 
 
 
