@@ -29,6 +29,18 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
     <img src="https://skillicons.dev/icons?i=aws,linux,git,github,bash,ansible,jenkins,terraform,docker,kubernetes,python"/>
   </a>
 </p>
+
+- **Cloud**: AWS, Azure, GCP, Private Cloud  
+- **OS**: Linux, Windows  
+- **CI/CD**: Jenkins, GitHub Actions  
+- **SCM**: Git, GitHub  
+- **IaC**: Terraform  
+- **Containers**: Docker, Kubernetes  
+- **Security & Scanning**: SonarQube, Veracode, Metasploit  
+- **Artifact Repositories**: Nexus, JFrog Artifactory  
+- **Scripting**: Bash, Shell, Python, Java  
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
+
  
  ## [![My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logoColor=white)](https://github.com/NotHarshhaa) 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshputtamaneni&show_icons=true&locale=en&layout=compact&theme=radical" alt="aadarshputtamaneni" />
