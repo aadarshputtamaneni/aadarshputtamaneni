@@ -5,16 +5,16 @@
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logoColor=white" alt="About Me"/>
  
 </p>
-
+---
 Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.
-
+---
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logoColor=white&labelColor=black)
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsaputamneni/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aadarshputtamaneni)
 [![Gmail](https://img.shields.io/badge/Email-aadarshdevops@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aadarshdevops@gmail.com)
 
- 
+ ---
 ## ![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-000000?style=for-the-badge&logoColor=white)
 
  ### 🔧 What I Do
@@ -26,7 +26,7 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 - 🔐 Integrate **security and code quality tools** into CI/CD pipelines for secure delivery  
 - 📈 Monitor systems using **Prometheus, Grafana, and ELK Stack** to ensure availability and performance  
 
-
+---
  
 ## [![Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-000000?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)
 
@@ -41,7 +41,7 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 - **Scripting**: Bash, Shell, Python, Java  
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
 
- 
+ ---
  ## [![My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logoColor=white)](https://github.com/NotHarshhaa) 
  
  <p align="center">
