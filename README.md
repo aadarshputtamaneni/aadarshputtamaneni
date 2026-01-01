@@ -29,11 +29,6 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 
  
 ## [![Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-000000?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,git,github,bash,ansible,jenkins,terraform,docker,kubernetes,python"/>
-  </a>
-</p>
 
 - **Cloud**: AWS, Azure, GCP, Private Cloud  
 - **OS**: Linux, Windows  
