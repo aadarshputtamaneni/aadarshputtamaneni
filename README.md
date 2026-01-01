@@ -9,11 +9,11 @@
 Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.
 
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logoColor=white&labelColor=black)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsaputamneni/)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadarshputtamaneni)
+[![Gmail](https://img.shields.io/badge/EMAIL-AADARSHDEVOPS%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshdevops@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/aadarsaputamneni/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/aadarshputtamaneni)
-[![Gmail](https://img.shields.io/badge/Email-aadarshdevops@gmail.com-red?logo=gmail&style=flat)](mailto:aadarshdevops@gmail.com)
-
+ 
 ## ![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-000000?style=for-the-badge&logoColor=white)
 
  ### 🔧 What I Do
