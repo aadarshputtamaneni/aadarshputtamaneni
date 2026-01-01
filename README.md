@@ -5,10 +5,7 @@
 <p>
   <span style="float: left;">
     <img src="https://img.shields.io/badge/About_Me-000000?style=for-the-badge&logoColor=white" alt="About Me"/>
-  </span>
-  <span style="float: left;">
-    <img src="https://komarev.com/ghpvc/?username=aadarshputtamaneni&label=Profile%20views&color=f07d4c&style=plastict" align="right" alt="Profileviews" width="130" height="28"/>
-  </span>
+ 
 </p>
 
 Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
