@@ -15,12 +15,16 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 [![Gmail](https://img.shields.io/badge/Email-aadarshdevops@gmail.com-red?logo=gmail&style=flat)](mailto:aadarshdevops@gmail.com)
 
 ## ![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-000000?style=for-the-badge&logoColor=white)
-- As a DevOps Engineer, I specialize in building and managing cloud infrastructure to accelerate software delivery while ensuring reliability and scalability. My expertise lies in automating processes, optimizing workflows, and maintaining high availability through a combination of industry-standard tools and best practices.
-- Skills - **AWS**, **Azure**, **Linux**, **Git & GitHub**, **Bash**, **Ansible**, **Jenkins**, **Terraform**, **Docker**, **Kubernetes**, **Python**, **SQL**.
-- ⚡ Open to Learning New Tools & Technologies: I enjoy exploring emerging tools and platforms in DevOps, cloud computing, and automation to stay ahead in the industry.
-- 🌟 Let’s work together to bring success to your **cloud projects!**
-- 🌍 I'm based in **Bangalore, India**
-- 📫 How to reach me: **aadarshdevops@gmail.com**
+
+ ### 🔧 What I Do
+
+- 🛠️ Build and maintain cloud infrastructure using **Terraform** for repeatable and secure provisioning  
+- 🚀 Design and manage **CI/CD pipelines** with **Jenkins** and **GitHub Actions** for reliable deployments  
+- 🐳 Containerize applications using **Docker** and orchestrate them with **Kubernetes**  
+- 🤖 Automate operational tasks using **Shell scripting** and **Python** to improve efficiency  
+- 🔐 Integrate **security and code quality tools** into CI/CD pipelines for secure delivery  
+- 📈 Monitor systems using **Prometheus, Grafana, and ELK Stack** to ensure availability and performance  
+
 
  
 ## [![Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-000000?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)
