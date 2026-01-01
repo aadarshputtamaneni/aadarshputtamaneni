@@ -19,7 +19,7 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 - 📫 How to reach me: **aadarshdevops@gmail.com**
 
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logoColor=white&labelColor=black)
-<p align="left">
+ <p align="left">
 <a href="https://twitter.com/aadarshp153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarshp153" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/aadarsaputamneni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarshputtamaneni" height="40" width="50" /></a>
 <a href="https://instagram.com/aadarsh_puttamaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadarsh_puttamaneni" height="40" width="50" /></a>
