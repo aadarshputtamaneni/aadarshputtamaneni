@@ -45,13 +45,17 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
  ## [![My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logoColor=white)](https://github.com/NotHarshhaa) 
  
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshputtamaneni&theme=dark" alt="GitHub Streak" />
+ ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadarshputtamaneni&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshputtamaneni&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aadarshputtamaneni&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshputtamaneni&layout=compact&theme=tokyonight" />
+</p>
 
