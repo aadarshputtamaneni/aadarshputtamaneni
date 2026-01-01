@@ -1,5 +1,6 @@
  
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHZmlBaqzkWRA/profile-displaybackgroundimage-shrink_350_1400/B56Zt4i0HrJsAY-/0/1767253959086?e=1769040000&v=beta&t=sR0iJE3ZFgUQM2E8R0ujDH444jbdeW3QaQZD9bXPaA4)](https://rishavchanda.io)
+
 ---
 <p>
   <span style="float: left;">
@@ -7,6 +8,8 @@
  
 </p> 
 Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.
+
+---
  
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logoColor=white&labelColor=black)
 
