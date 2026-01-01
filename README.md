@@ -10,9 +10,9 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logoColor=white&labelColor=black)
 
- [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsaputamneni/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsaputamneni/)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadarshputtamaneni)
-[![Gmail](https://img.shields.io/badge/EMAIL-aadarshdevops@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshdevops@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-aadarshdevops@gmail.com-red?logo=gmail&style=flat-square)](mailto:aadarshdevops@gmail.com)
 
  
 ## ![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-000000?style=for-the-badge&logoColor=white)
