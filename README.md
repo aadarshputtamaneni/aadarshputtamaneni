@@ -34,16 +34,16 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
  
 ## [![Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-000000?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)
 
-- **Cloud**: AWS, Azure, GCP, Private Cloud  
-- **OS**: Linux, Windows  
-- **CI/CD**: Jenkins, GitHub Actions  
-- **SCM**: Git, GitHub  
-- **IaC**: Terraform  
-- **Containers**: Docker, Kubernetes  
-- **Security & Scanning**: SonarQube, Veracode, Metasploit  
-- **Artifact Repositories**: Nexus, JFrog Artifactory  
-- **Scripting**: Bash, Shell, Python, Java  
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
+- ☁️ **Cloud**: AWS, Azure, GCP, Private Cloud  
+- 🖥️ **OS**: Linux, Windows  
+- 🔄 **CI/CD**: Jenkins, GitHub Actions  
+- 🌱 **SCM**: Git, GitHub  
+- 🏗️ **IaC**: Terraform  
+- 🐳 **Containers**: Docker, Kubernetes  
+- 🔐 **Security & Scanning**: SonarQube, Veracode, Metasploit  
+- 📦 **Artifact Repositories**: Nexus, JFrog Artifactory  
+- ⌨️ **Scripting**: Bash, Shell, Python, Java  
+- 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
 
  ---
  ## [![My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logoColor=white)](https://github.com/NotHarshhaa) 
