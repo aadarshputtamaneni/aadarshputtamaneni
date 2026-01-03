@@ -8,17 +8,16 @@
  
 </p> 
  
-Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.
+Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** with **4+ years of experience**, focused on automating everything and scaling cloud infrastructures efficiently.
 
 ---
  
 ## ![Connect & Collaborate](https://img.shields.io/badge/Connect%20&%20Collaborate-black?style=for-the-badge&logoColor=white&labelColor=black)
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsaputamneni/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsaputamneni/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadarshputtamaneni)
 [![Email](https://img.shields.io/badge/Email-aadarshdevops@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshdevops@gmail.com)
-[![Email](https://img.shields.io/badge/email-aadarshdevops@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshdevops@gmail.com)
-
+ 
 
  ---
 ## ![Let's innovate, automate, and optimize!](https://img.shields.io/badge/Let's%20innovate,%20automate,%20and%20optimize!-000000?style=for-the-badge&logoColor=white)
