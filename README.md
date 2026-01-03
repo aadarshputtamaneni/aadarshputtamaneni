@@ -17,6 +17,7 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsaputamneni/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadarshputtamaneni)
 [![Email](https://img.shields.io/badge/Email-aadarshdevops@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshdevops@gmail.com)
+[![Email](https://img.shields.io/badge/email-aadarshdevops@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshdevops@gmail.com)
 
 
  ---
