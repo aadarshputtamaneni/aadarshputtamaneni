@@ -43,8 +43,13 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 - 🔐 **Security & Scanning**: SonarQube, Veracode, Metasploit  
 - 📦 **Artifact Repositories**: Nexus, JFrog Artifactory  
 - ⌨️ **Scripting**: Bash, Shell, Python, Java  
-- 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
-
+- 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+   
+ ### 🤝 Professional Strengths
+- 🎯 Strong ownership & accountability mindset  
+- 🧠 Analytical problem-solver with calm decision-making  
+- 🤝 Clear communicator between Dev, Ops & Business  
+- 🚀 Fast learner who adapts quickly to new tools & challenges  
  ---
  ## [![My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logoColor=white)](https://github.com/NotHarshhaa) 
  
