@@ -31,7 +31,18 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 - 📈 Monitor systems using **Prometheus, Grafana, and ELK Stack** to ensure availability and performance  
 
 ---
- 
+## [![Career Highlights](https://img.shields.io/badge/Career_Highlights-000000?style=for-the-badge&logo=medal&logoColor=white)](https://github.com/NotHarshhaa)
+
+- ⚙️ Built fully automated CI/CD pipelines reducing manual deployments to zero  
+- 🚀 Standardized Docker images & Kubernetes manifests for consistent releases  
+- 🏗️ Implemented Terraform IaC with remote state & locking for safe infra changes  
+- 🔐 Embedded security scans into pipelines, blocking vulnerable builds early  
+- 📈 Designed monitoring & alerting to detect issues before user impact  
+- 🔄 Enabled rollback-ready deployments for faster recovery from failures  
+- 💰 Optimized cloud resources to reduce unnecessary cost and over-provisioning  
+- 🧩 Improved developer productivity by simplifying build & release workflows  
+
+---
 ## [![Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-000000?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)
 
 - ☁️ **Cloud**: AWS, Azure, GCP, Private Cloud  
