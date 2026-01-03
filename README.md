@@ -55,8 +55,9 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** on 
 - 📦 **Artifact Repositories**: Nexus, JFrog Artifactory  
 - ⌨️ **Scripting**: Bash, Shell, Python, Java  
 - 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-   
- ### 🤝 Professional Strengths
+---   
+## [![Professional Strengths](https://img.shields.io/badge/Professional_Strengths-000000?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/NotHarshhaa)
+
 - 🎯 Strong ownership & accountability mindset  
 - 🧠 Analytical problem-solver with calm decision-making  
 - 🤝 Clear communicator between Dev, Ops & Business  
