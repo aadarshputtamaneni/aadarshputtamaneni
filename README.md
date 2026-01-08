@@ -24,24 +24,24 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** wit
 
  ### 🔧 What I Do
 
-- 🛠️ Build and maintain cloud infrastructure using **Terraform** for repeatable and secure provisioning  
-- 🚀 Design and manage **CI/CD pipelines** with **Jenkins** and **GitHub Actions** for reliable deployments  
-- 🐳 Containerize applications using **Docker** and orchestrate them with **Kubernetes**  
-- 🤖 Automate operational tasks using **Shell scripting** and **Python** to improve efficiency  
-- 🔐 Integrate **security and code quality tools** into CI/CD pipelines for secure delivery  
-- 📈 Monitor systems using **Prometheus, Grafana, and ELK Stack** to ensure availability and performance  
+-  Build and maintain cloud infrastructure using **Terraform** for repeatable and secure provisioning  
+-  Design and manage **CI/CD pipelines** with **Jenkins** and **GitHub Actions** for reliable deployments  
+-  Containerize applications using **Docker** and orchestrate them with **Kubernetes**  
+-  Automate operational tasks using **Shell scripting** and **Python** to improve efficiency  
+-  Integrate **security and code quality tools** into CI/CD pipelines for secure delivery  
+-  Monitor systems using **Prometheus, Grafana, and ELK Stack** to ensure availability and performance  
 
 ---
 ## [![Career Highlights](https://img.shields.io/badge/Career_Highlights-000000?style=for-the-badge&logo=medal&logoColor=white)](https://github.com/NotHarshhaa)
 
-- ⚙️ Built fully automated CI/CD pipelines reducing manual deployments to zero  
-- 🚀 Standardized Docker images & Kubernetes manifests for consistent releases  
-- 🏗️ Implemented Terraform IaC with remote state & locking for safe infra changes  
-- 🔐 Embedded security scans into pipelines, blocking vulnerable builds early  
-- 📈 Designed monitoring & alerting to detect issues before user impact  
-- 🔄 Enabled rollback-ready deployments for faster recovery from failures  
-- 💰 Optimized cloud resources to reduce unnecessary cost and over-provisioning  
-- 🧩 Improved developer productivity by simplifying build & release workflows  
+-  Built fully automated CI/CD pipelines reducing manual deployments to zero  
+-  Standardized Docker images & Kubernetes manifests for consistent releases  
+-  Implemented Terraform IaC with remote state & locking for safe infra changes  
+-  Embedded security scans into pipelines, blocking vulnerable builds early  
+-  Designed monitoring & alerting to detect issues before user impact  
+-  Enabled rollback-ready deployments for faster recovery from failures  
+-  Optimized cloud resources to reduce unnecessary cost and over-provisioning  
+-  Improved developer productivity by simplifying build & release workflows  
 
 ---
 ## [![Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-000000?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)
@@ -59,10 +59,10 @@ Hey there! 👋 I'm **Aadarsa Putamaneni**, a passionate **DevOps Engineer** wit
 ---   
 ## [![Professional Strengths](https://img.shields.io/badge/Professional_Strengths-000000?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/NotHarshhaa)
 
-- 🎯 Strong ownership & accountability mindset  
-- 🧠 Analytical problem-solver with calm decision-making  
-- 🤝 Clear communicator between Dev, Ops & Business  
-- 🚀 Fast learner who adapts quickly to new tools & challenges  
+-  Strong ownership & accountability mindset  
+-  Analytical problem-solver with calm decision-making  
+-  Clear communicator between Dev, Ops & Business  
+-  Fast learner who adapts quickly to new tools & challenges  
  ---
  ## [![My GitHub Stats](https://img.shields.io/badge/My_GitHub_Stats-000000?style=for-the-badge&logoColor=white)](https://github.com/NotHarshhaa) 
  
